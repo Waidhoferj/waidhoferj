@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a software developer based in San Luis Obispo. (Pronouns he/him)
+I'm a software developer based in San Luis Obispo. (he/him)
 
 ## What I'm up to
 - 📚 Master's student at Cal Poly SLO studying computer vision.
