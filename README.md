@@ -40,5 +40,4 @@ I'm a software developer based in San Luis Obispo. (Pronouns he/him)
 
 ### Other stuff
 <img align="left" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-whitesmoke?style=for-the-badge&logo=GraphQL&logoColor=CE3095" />
-<img align="left" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-whitesmoke?style=for-the-badge&logo=GraphQL&logoColor=CE3095" />
 
