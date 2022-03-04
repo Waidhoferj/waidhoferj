@@ -2,9 +2,8 @@
 I'm a software developer based in San Luis Obispo. (he/him)
 
 ## What I'm up to
-- 📚 Master's student at Cal Poly SLO studying computer vision.
+- 📚 Master's student at Cal Poly SLO studying conflict-free replicated data types.
 - 🤖 President of the [Cal Poly Computer Science and Artificial Intelligence Club](https://www.calpolycsai.com/)
-- 🧐 Researching panoramic view synthesis and neural style transfer
 - ⚙️ Learning [Rust](https://www.rust-lang.org/) to develop performant computer graphics projects
 - 🎨 Playing around with creative coding projects
 - 💻 Developing websites in [Svelte](https://svelte.dev/)
