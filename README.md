@@ -3,8 +3,8 @@ I'm a software developer based in San Luis Obispo. (he/him)
 
 ## What I'm up to
 - 📚 Master's student at Cal Poly SLO studying conflict-free replicated data types.
-- 🤖 President of the [Cal Poly Computer Science and Artificial Intelligence Club](https://www.calpolycsai.com/)
-- ⚙️ Learning [Rust](https://www.rust-lang.org/) to develop performant computer graphics projects
+- 🐍 Maintainer of [Ypy](https://github.com/y-crdt/ypy)
+- ⚙️ Using [Rust](https://www.rust-lang.org/) to develop performant computer graphics projects
 - 🎨 Playing around with creative coding projects
 - 💻 Developing websites in [Svelte](https://svelte.dev/)
 <br>
