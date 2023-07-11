@@ -1,9 +1,8 @@
 ### Hi there 👋
-I'm a software developer based in San Luis Obispo. (he/him)
+I'm a software developer based in San Francisco. (he/him)
 
 ## What I'm up to
-- 📚 Master's student at Cal Poly SLO studying conflict-free replicated data types.
-- 🐍 Maintainer of [Ypy](https://github.com/y-crdt/ypy)
+- 🛜 Working on Data Engineering projects at Amazon eero
 - ⚙️ Using [Rust](https://www.rust-lang.org/) to develop performant computer graphics projects
 - 🎨 Playing around with creative coding projects
 - 💻 Developing websites in [Svelte](https://svelte.dev/)
